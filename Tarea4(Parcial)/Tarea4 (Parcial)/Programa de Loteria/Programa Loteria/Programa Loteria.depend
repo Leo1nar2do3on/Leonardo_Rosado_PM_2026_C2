@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781137905 source:c:\users\user\desktop\programa de loteria\programa loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+
