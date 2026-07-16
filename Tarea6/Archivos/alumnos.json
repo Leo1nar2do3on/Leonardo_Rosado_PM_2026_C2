@@ -1,0 +1,62 @@
+[
+    {
+        "Nombre": "Juan",
+        "Apellido": "Perez",
+        "Promedio": 8.5,
+        "Materia": "Matematica"
+    },
+    {
+        "Nombre": "Maria",
+        "Apellido": "Gomez",
+        "Promedio": 9.2,
+        "Materia": "Fisica"
+    },
+    {
+        "Nombre": "Carlos",
+        "Apellido": "Rodriguez",
+        "Promedio": 7.8,
+        "Materia": "Programacion"
+    },
+    {
+        "Nombre": "Ana",
+        "Apellido": "Martinez",
+        "Promedio": 6.9,
+        "Materia": "Quimica"
+    },
+    {
+        "Nombre": "Luis",
+        "Apellido": "Fernandez",
+        "Promedio": 8.0,
+        "Materia": "Estructura de Datos"
+    },
+    {
+        "Nombre": "Laura",
+        "Apellido": "Lopez",
+        "Promedio": 9.5,
+        "Materia": "Algoritmos"
+    },
+    {
+        "Nombre": "Diego",
+        "Apellido": "Sanchez",
+        "Promedio": 7.3,
+        "Materia": "Bases de Datos"
+    },
+    {
+        "Nombre": "Sofia",
+        "Apellido": "Ramirez",
+        "Promedio": 8.8,
+        "Materia": "Redes"
+    },
+    {
+        "Nombre": "Pablo",
+        "Apellido": "Torres",
+        "Promedio": 6.5,
+        "Materia": "Sistemas Operativos"
+    },
+    {
+        "Nombre": "Valentina",
+        "Apellido": "Diaz",
+        "Promedio": 9.0,
+        "Materia": "Ingenieria de Software"
+    }
+]
