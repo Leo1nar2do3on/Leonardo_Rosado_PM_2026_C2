@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786721218 source:c:\users\user\desktop\método mosler\método mosler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
